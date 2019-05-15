@@ -1,0 +1,366 @@
+[/]
+active-display-scale=1
+alttab-switcher-delay=100
+alttab-switcher-style='icons+thumbnails'
+applet-cache-updated=1533191586
+cinnamon-settings-advanced=true
+command-history=['kill -SIGSTOP 2060', 'pkill cortina', 'wallch', 'gpointing-device-settings', 'gsynaptics', 'nemo Code/fcp', 'conkh', 'touchpad_toggle', 'notify-send --text="Touchpad"', 'गॆदित', 'firefx', 'pkill cheese', 'fwsir', 'charmap', 'inskscape', 'Lyx', 'redshfi', 'grsync', 'gnome-power-statistics', 'bc', 'bless', 'python', 'gcalccmd', 'nemp', 'neo', 'pkill thunderbird ; thunderbird', 'pkill thunderbird && thunderbird', 'fire', 'deluser', 'fier', 'firefox]', 'gimp', 'firefox --private', 'delgue', 'hexchat', 'fierfox', 'libreoffice --calc\\', 'libreoffice calc', 'halt', 'dluge', 'delluge', 'geany', 'firfox', 'delufe', 'deluge\\', 'virtualbox', '~/Downloads/Deluge_completed/', 'easytag', 'firefo', 'gtk-redshif', 'picard', 'rediff', 'paperfs', 'xrandr --rotate normal', 'xrandr -o', 'xrandr -0 0', 'killall gtk-redshift', 'pkill virtualbox', 'inkscapep', 'pkill keymon', 'xrandr -o2', 'xrandr --left', 'xrandr --rotate=left', 'xrandr --rotate=left --display=:0', 'v-c -r', 'firerfox', 'xrandr --rotate left', 'deluge-console', 'frluhr', 'bansbee', 'indicator-cpufreq', 'pkill seahorse', 'pkill gtk-redshift', 'gtk-redshift', 'xrandr --current -o2', 'xrandr --current --rotate right', 'xrandr --current -o 4', 'gtk-red', 'xrandr --current -O 2', 'xrandr --current -O2', 'redshift -l 18.5:73.5', 'redshift -o', 'gedit ~/.conkyrc', 'gedit /home/gaurav/.conkyrc', 'xrandr --current -O1', 'xrandr --current -O 1', 'predict-gsat', 'pkill deluge-gtk', 'nmcli', 'nmcli nm', 'nmcli nm eth0 on', 'paprefs', 'mpd', 'pkill mpd', 'keymon', 'dia', 'gedit ~/Desktop/bug_patt', 'gedit Desktop/bug_patt', 'gedit Desktop/bug_comm', 'xkill nemo', 'gaphor', 'pkill Nec2dxS115', 'pkill Nec2dxS11', ' ', 'pkill 4n3c', 'pkill 4nec', 'xkill nec', 'pkill nrv', 'conky --restart', 'pkill NEC2DXS', 'pkill NEC', 'pkill conky ', 'notify-send', 'notify-send blah', 'pkill gvfsd-sftp', 'pkill sftp', 'pkill file-roller', 'geany ~/Code/csat/COM2-GEN-source-coding-huffman/src/encode.c', 'xrandr -O2', 'xrandr --currnt -o 0', 'pkill glade', 'xrandr --current -O 3', 'xrandr --current -o3', 'xrandr --current -O3', 'xrandr --current  -O 3', 'xrandr --display  -O 3', 'xrandr --current  -o 3', 'xrandr --curren t-o 3', 'xrandr --current -o 3', 'pkill python2', 'pkill -11 5962', 'kill -11 5962', 'pkill doxygen', 'pkill ardesia', 'key-mon', 'pkill key-mon', 'kazam', 'pkill record-my-desktop', 'pkill recordmydesktop', 'nemo .', 'kill -11 6274', 'pkill gedit', 'lyx', 'kill -11 22882', 'xrandr --current -o 2', 'xrandr --current -o12', 'xrandr --current -o1', 'xrandr --current -o 1', 'xrandr --current -o 0', 'screen-orientation 2', 'pkill scp-dbus-service', 'pkill  thund', ' r', 'gcalc', 'pkill xdot', 'pdflatex', 'pkill gssoft', 'kill -11 21577', 'pkill pdflatex', 'pkill network', 'pkill ptunnel', 'pkill geany', 'pkill main.py', 'pkill java', 'kill -9 3266', 'pkill conky && conky', 'thunderbird erbird', 'dconf-editor ', 'pkill conky ; conky', 'pkill deluge', 'pkill cairo-dock ; cairo-dock', 'thunder', 'cairo-docko', 'pkill audacity', 'pkill gvsfd-sftp', 'xarndr -o 3', 'xaradr -o 3', 'xradr -o 3', 'xarndr -o 0', 'pkill lyx', 'gnome-system-monitor ', 'xrandr -o 3', 'nemo ~/Desktop', 'pkill inkscape', 'dia Code/dbms/er.dia', "pkill 'Main Thread'", 'screenkey', 'pkill vnc', 'pkill impress', 'pkill soffice.bin', 'kill -11 11056', 'pkill a.out', 'xkill ', 'xev', 'pkill brasero', 'brasero', 'nrmo', 'pkill xfburn', 'wmctrl -s 0', 'xrandr -O 2', 'xrandr -o 1', 'pkill nec', 'pkill pudb', '4necx', 'pkill python3', 'pkill eagle', 'pkill deluged', 'cinnamon-qui', 'cinnamon-quit', 'cinnamon-session-quit ', 'rshlr', 'gerbv ', 'conku', 'meld Desktop/*.txt', 'i', 'l', 'q', 'eviacam', 'pkill conky; conky', 'meld', 'pkill kica', 'pkill cvpcb', 'γωιμ', '?', 'rmpls', 'pkill hp', 'cinnamon-slideshow --next', 'banshee --show', 'pkill GoogleTalkPlugin*', 'gvim Desktop/ldpc_min_sum_timings.txt', 'nec', 'eagl', 'evince', 'kill 11967', 'kill -11 11967', 'shutter ', 'xdg-open /tmp/a.rar ', 'xdg-open  /tmp/Criminal\\ Case\\ \\ against.You\\ H26\\ \\ Plustek_A300_DQV-UFS.rar ', 'rm /tmp/Criminal\\ Case\\ \\ against.You\\ H26\\ \\ Plustek_A300_DQV-UFS.rar ', 'kill -11 4496', 'xrandr -O 3', 'xrandr -o 2', 'xrandr -o 0', 'pkill iscan', 'screen-orientation 3', 'xdg-open /tmp/a.rar', 'pkill rig', 'pkill rot', 'pkill girefox', 'pkill firfox', 'xrandr --output HDMI1 --brightness 0.5', 'pkill cairo-do', 'kill 6093', 'firef', 'xdg-open /tmp/IAC.rar ', 'gedit', 'p', 'e', 'shutte', 'pdfshuffler ', 'pdfshuffler', 'thunderbired', 'xwininfo', 'pkill x11', 'conky ', 'gprename', 'chromium-browser ', 'pkill', 'kill 18685', 'kill 8668', 'pkill chromium', 'banshe', 'rotate 0', 'pkill banshe', 'plantuml', 'wxFormBuilder', 'pkill "Main Thread"', 'xe', 'xed', 'pkill cairo-docik', 'cairo-dcok', 'pkill git', 'apturl ', 'nemo /home/gaurav/Code/subjects/gta', '11', 'nemo ', 'pkill gnome-do', 'qucs', 'gsmc', 'pkill x11vnc', 'kicad', 'nemo /home/super/Desktop', 'pkill wc', 'freecad', 'kill 8196', 'eagle', 'pkill cairo-doc', 'pkill yot', 'pkill rsync', 'pkill kazam', 'kill -11 10916', 'kill 16462', 'kill -11 16462', 'systemctl supsend', 'alert', 'kill 8327', 'vim ~/Songs/Todo/list', 'gvim ~/Songs/Todo/list', 'kpill bansh', 'systemctl  hybrid-sleep', 'xset dpms suspend', 'pkill gpredict', 'kill ', 'kill 26906', 'kill -11 26906', '2', 'pkill VBox', 'kill -11 ', 'pkill evince', 'gvim8888888888822222222222222222222222', 'pkill firefo', 'firefox-old', 'pkilll kicad', 'torb', 'pkill nemo', 'kill -11 21508', 'pkill freecad', 'pkill gparteed', 'pkill gparted', 'kill 5324', 'kill 4158', 'kill 4184', 'inkscaep', 'inkscape ', 'inkscape', 'systemctl restart', 'deluge', 'kill -11 714', 'pkill timeshift', 'kill 6763', 'kill -11 6763', 'pkill baloo', 'pkill Main\\ Thread', 'systemct poweroff', 'chrome', 'pkill calibre*', 'pkill caliber', 'calibre', 'synaptic', 'cairo-docik', 'pkill record*', 'pkill gtk-recordmydesktop', 'kill 28805', 'torbrowser', 'pkill tor', 'pkill torbrower', 'cair-dock', 'torbrowser-launcher ', 'gvim ~/Documents/passwd.txt.asc', 'xset dpms force off\\', 'ibus', 'pkill gvim', 'x', 'amarok', 'pkill pulseaudio', 'pulseaudio ', 'redshift', 'redshift-gtk', 'redshift-gtk -l 18.53:73.87', 'pkill clementine', 'pkill wine', 'pkill pulse', 'pulseaudio', 'pkill rfkill', 'blueberry', 'pkill exaile', 'kill -11 24484', 'pkill screenkey', 'pkill amarok', '/usr/bin/supervisord -c /home/gaurav/.startup-supervisord.conf', 'pkill kicad', 'xset  dpms force off', 'shutter', 'pkil rfkill', 'kill 5732', 'kill -11 5732', 'pkill redshift', 'redshift-gtk -l 33.77:-84.41', 'systemctl ssupend', 'pkill gnucash', 'pkill shutter', 'gvim ~/courses/CS8803_FMM/papers/weak_ordering/review.md', 'kill 20927', 'kill 20840', 'kill 22532', 'kill 24896', 'kill 20032', 'systemctl usspend', 'conky -c ~/.conkyrc', 'lf', 'lg', 'lightscreen ', 'pkill gnome-screenshot', 'pkill gscreenshot', 'pkill lightscreen', 'pkill slameshot', 'pkill gpg-agent', 'gpg-agent', 'pkill conkyh', 'pkill bluetoot*', 'flameshot ', '/usr/bin/libinput-gestures', 'kill 4732', 'banshee', 'systemctl erboot', 't', 'openshot', 'facepalm', 'rt', 'kill 32403', 'thuderbir', 'xkil', '/usr/bin/python2 /usr/bin/supervisord -c /home/gaurav/.startup-supervisord.conf', 'pkill vlc', 'conkuy', 'kill 23893', 'kill 23904', 'kill 6852', 'kill 7463', 'nemo', 'coky', 'pkill ocnky', 'pkill gnome-terminal', 'sleep 5; systemctl suspend', 'systemctl poweroff ', 'r]', 'flamehshot', 'firefox', 'pkill blueman-appliet', 'pkill blueman-applet', 'kill -11 6850', 'kill -11 8255', 'sync', 'flameshot config', 'pkill recollindex', 'pkll thunderbird', 'gbim', '.conky/start-conky ', 'notify-send test', 'p3', 'kill -SIGCONT 9365', 'pkill buleberry', 'pkill blue*', 'pkill blueberry', 'sudo reboot', 'systemctl reload', 'pkill firefox', 'xset dpms force off', 'systemctl suspend\\', 'gnome-calculator ', 'thunderbird ', 'pkill Main', 'pkill thunderbird', 'thunderbird', 'pkill flameshot', 'flameshot', 'blueman', 'gnome-calculator', 'pkill blueman', '', 'pkill 9817', 'kill 9817', 'kill 9732', 'kill -9 9732', 'systemctl suspen', 'pkill updatedb', 'pkill ctags', 'reboot', 'gnome-terminal', 'xterm', 'pill conky', 'pkill vim', 'systeemctl suspend', 'recoll', '~/.conky/start-conky', 'pkill mplayer', 'systemctl reboo', 'xkill', '~/.conky/start-conky.sh', 'intel-virtual-output', 'intel-virtualoutput', 'intel-vr', 'pkill coknky', 'conky', 'systemctl  suspend', 'pkill conky', 'pkill cairo-dock', 'cairo-dock', 'systemctl hiberante', 'sytsemctl reboot', 'r', 'gvim', 'intel-virtual-output ', 'systemctl poewroff', 'systemctl poweroff', 'systemctl shutdown', 'systemctl reboot', 'systemctl hibernate', 'systemctll suspend', 'systemctl suspend', 'pkill banshee', 'pkill Main Thread']
+desklet-decorations=1
+desklet-snap=false
+desklet-snap-interval=15
+desktop-effects=false
+desktop-effects-close-effect='traditional'
+desktop-effects-close-time=120
+desktop-effects-close-transition='easeOutQuad'
+desktop-effects-map-effect='traditional'
+desktop-effects-map-time=100
+desktop-effects-map-transition='easeOutQuad'
+desktop-effects-maximize-effect='none'
+desktop-effects-maximize-time=100
+desktop-effects-maximize-transition='easeInExpo'
+desktop-effects-minimize-effect='traditional'
+desktop-effects-minimize-time=160
+desktop-effects-minimize-transition='easeInQuad'
+desktop-effects-on-dialogs=false
+desktop-effects-on-menus=false
+desktop-effects-style='cinnamon'
+desktop-effects-tile-effect='none'
+desktop-effects-tile-time=100
+desktop-effects-tile-transition='easeInQuad'
+desktop-effects-unmaximize-effect='none'
+desktop-effects-unmaximize-time=100
+desktop-effects-unmaximize-transition='easeNone'
+device-aliases=['/org/freedesktop/UPower/devices/battery_BAT1:=LGC DELL 1V2F6462']
+enable-indicators=false
+enable-vfade=false
+enabled-applets=['panel1:left:0:menu@cinnamon.org:21', 'panel1:left:2:show-desktop@cinnamon.org:1', 'panel1:left:3:panel-launchers@cinnamon.org:2', 'panel1:center:1:window-list@cinnamon.org:46', 'panel1:right:1:systray@cinnamon.org:16', 'panel1:right:2:removable-drives@cinnamon.org:6', 'panel1:right:3:keyboard@cinnamon.org:7', 'panel1:right:4:network@cinnamon.org:9', 'panel1:right:5:sound@cinnamon.org:35', 'panel1:right:6:power@cinnamon.org:11', 'panel1:right:7:slideshow@cinnamon.org:43', 'panel1:right:8:inhibit@cinnamon.org:44', 'panel1:right:9:xrandr@cinnamon.org:45', 'panel1:right:11:user@cinnamon.org:5', 'panel1:right:12:notifications@cinnamon.org:4', 'panel1:right:10:calendar@simonwiles.net:54', 'panel2:right:2:calendar@simonwiles.net:55', 'panel2:right:1:on-screen-keyboard@cinnamon.org:56', 'panel2:center:0:window-list@cinnamon.org:57']
+enabled-desklets=@as []
+enabled-extensions=@as []
+favorite-apps=['firefox.desktop', 'cinnamon-settings.desktop', 'nemo.desktop', 'org.gnome.Terminal.desktop']
+hotcorner-layout=['expo:false:0', 'scale:false:0', 'expo:true:0', 'expo:true:0']
+looking-glass-history=['global.segfault()']
+next-applet-id=58
+next-desklet-id=1
+number-workspaces=6
+overview-corner=['false:false:false', 'false:false:false', 'false:false:false', 'expo:true:false']
+panel-autohide=false
+panel-edit-mode=false
+panel-launchers=['DEPRECATED']
+panel-resizable=false
+panel-top-height=25
+panel-zone-icon-sizes='[{"panelId":1,"left":22,"center":22,"right":22}]'
+panels-autohide=['1:false', '2:false', '3:false']
+panels-enabled=['1:0:top', '2:1:top']
+panels-height=['1:25', '2:25', '3:50']
+panels-hide-delay=['1:0', '2:0', '3:0']
+panels-resizable=['1:false', '2:false', '3:true']
+panels-scale-text-icons=['1:true', '2:false', '3:true']
+panels-show-delay=['1:0', '2:0', '3:0']
+prevent-focus-stealing=true
+show-media-keys-osd='medium'
+startup-animation=false
+window-list-applet-scroll=true
+workspace-expo-view-as-grid=true
+workspace-name-overrides=@as []
+workspace-osd-duration=400
+workspace-osd-x=50
+workspace-osd-y=50
+
+[cinnamon-session]
+auto-save-session=false
+prefer-hybrid-sleep=true
+quit-delay-toggle=true
+quit-time-delay=10
+
+[desktop/a11y/applications]
+screen-keyboard-enabled=true
+screen-magnifier-enabled=true
+screen-reader-enabled=false
+
+[desktop/a11y/keyboard]
+bouncekeys-beep-reject=true
+bouncekeys-delay=300
+bouncekeys-enable=false
+disable-timeout=120
+enable=false
+feature-state-change-beep=false
+mousekeys-accel-time=1200
+mousekeys-enable=false
+mousekeys-init-delay=160
+mousekeys-max-speed=500
+slowkeys-beep-accept=true
+slowkeys-beep-press=true
+slowkeys-beep-reject=false
+slowkeys-delay=300
+slowkeys-enable=false
+stickykeys-enable=false
+stickykeys-modifier-beep=true
+stickykeys-two-key-off=true
+timeout-enable=false
+
+[desktop/a11y/magnifier]
+lens-mode=true
+lens-shape='horizontal'
+mag-factor=1.0
+mouse-tracking='proportional'
+scroll-at-edges=false
+
+[desktop/a11y/mouse]
+dwell-click-enabled=false
+dwell-threshold=10
+dwell-time=1.2
+secondary-click-enabled=false
+secondary-click-time=1.2
+
+[desktop/applications/terminal]
+exec='gnome-terminal'
+
+[desktop/background]
+color-shading-type='solid'
+picture-options='zoom'
+picture-uri='file:///home/gaurav/Pictures/Wallch/wallhaven-373664.png'
+primary-color='#000000'
+secondary-color='#000000'
+
+[desktop/background/slideshow]
+delay=5
+image-source='directory:///home/gaurav/Pictures/Wallch'
+random-order=true
+slideshow-enabled=false
+slideshow-paused=false
+
+[desktop/interface]
+clock-show-date=true
+clock-show-seconds=false
+cursor-blink-time=1200
+cursor-size=24
+cursor-theme='Vanilla-DMZ'
+first-day-of-week=1
+font-name='Noto Sans 10'
+gtk-theme='Mint-X'
+gtk-theme-backup='Mint-X'
+icon-theme='Mint-X'
+icon-theme-backup='Mint-X'
+scaling-factor=uint32 0
+text-scaling-factor=1.0
+toolkit-accessibility=true
+
+[desktop/keybindings]
+custom-list=['custom0', 'custom2']
+looking-glass-keybinding=@as []
+
+[desktop/keybindings/custom-keybindings/custom0]
+binding=['<Super>s']
+command='recoll'
+name='Recoll'
+
+[desktop/keybindings/custom-keybindings/custom2]
+binding=['<Super>F8']
+command='/home/gaurav/bin/touchscreen_toggle.sh'
+name='Touchscreen toggle'
+
+[desktop/keybindings/media-keys]
+area-screenshot=['<Super>Print']
+area-screenshot-clip=['<Primary><Super>Print']
+calculator=['XF86Calculator', '<Super>F11']
+home=['<Super>f', 'XF86Explorer']
+kbd-brightness-toggle=['XF86KbdLightOnOff']
+mute-quiet=['XF86AudioMute']
+next=['XF86AudioNext', '<Super>F3']
+pause=['XF86AudioPause', '<Super>F1']
+play=['AudioPlay', 'AudioPlay']
+previous=['XF86AudioPrev', '<Super>F2']
+screensaver=['<Control><Alt>l', 'XF86ScreenSaver', '<Super>l']
+touchpad-toggle=['<Super>F7']
+volume-mute=['XF86AudioMute']
+window-screenshot=['<Shift>Print']
+window-screenshot-clip=['<Primary><Shift>Print']
+
+[desktop/keybindings/wm]
+panel-run-dialog=['<Alt>F2', '<Super>r']
+switch-to-workspace-1=['<Super>1']
+switch-to-workspace-10=['<Super>0']
+switch-to-workspace-11=['<Super>minus']
+switch-to-workspace-12=['<Super>equal']
+switch-to-workspace-2=['<Super>2']
+switch-to-workspace-3=['<Super>3']
+switch-to-workspace-4=['<Super>4']
+switch-to-workspace-5=['<Super>5']
+switch-to-workspace-6=['<Super>6']
+switch-to-workspace-7=['<Super>7']
+switch-to-workspace-8=['<Super>8']
+switch-to-workspace-9=['<Super>9']
+
+[desktop/media-handling]
+automount-open=false
+autorun-never=true
+autorun-x-content-ignore=@as []
+autorun-x-content-open-folder=@as []
+autorun-x-content-start-app=@as []
+
+[desktop/notifications]
+display-notifications=true
+fade-on-mouseover=false
+fade-opacity=40
+remove-old=false
+
+[desktop/privacy]
+recent-files-max-age=-1
+
+[desktop/screensaver]
+date-format='%A, %B %e'
+floating-widgets=false
+layout-group=0
+lock-delay=uint32 0
+lock-enabled=false
+screensaver-name=''
+screensaver-webkit-theme='webkit-stars@cinnamon.org'
+show-album-art=false
+use-custom-format=true
+xscreensaver-hack='cubestorm'
+
+[desktop/session]
+idle-delay=uint32 0
+
+[desktop/sound]
+event-sounds=false
+maximum-volume=100
+volume-sound-enabled=true
+volume-sound-file='/usr/share/sounds/freedesktop/stereo/audio-volume-change.oga'
+
+[desktop/wm/preferences]
+action-double-click-titlebar='toggle-maximize'
+action-middle-click-titlebar='toggle-shade'
+action-right-click-titlebar='menu'
+action-scroll-titlebar='opacity'
+audible-bell=false
+bell-sound='/usr/share/cinnamon/sounds/bell.ogg'
+focus-mode='click'
+min-window-opacity=30
+mouse-button-modifier='<Alt>'
+mouse-button-zoom-modifier='<Alt>'
+num-workspaces=9
+theme='Mint-X'
+theme-backup='Fitts-Natural-Adaptive'
+workspace-names=@as []
+
+[keybindings]
+custom-list=['custom0', 'custom1', 'custom2']
+
+[keybindings/custom-keybindings/custom0]
+binding='<Super>F7'
+command='/usr/bin/touchpad_toggle'
+name='Toggle touchpad'
+
+[keybindings/custom-keybindings/custom1]
+binding='<Super>F8'
+command='/usr/bin/touchscreen_toggle'
+name='Toggle touchscreen'
+
+[keybindings/custom-keybindings/custom2]
+binding='<Super>f'
+command='nemo'
+name='Nemo'
+
+[muffin]
+attach-modal-dialogs=false
+button-layout='menu:minimize,maximize,close'
+overlay-key='Super_L'
+placement-mode='automatic'
+resize-threshold=24
+snap-modifier='Super'
+tile-hud-threshold=25
+unredirect-fullscreen-windows=true
+workspace-cycle=true
+workspaces-only-on-primary=true
+
+[muffin/keybindings]
+panel-run-dialog=['<Alt>F2', '<Super>r']
+show-desktop=['<Super>d']
+switch-windows-backward=['<Shift><Alt>Tab']
+
+[power]
+power-label='percent'
+
+[settings-daemon/peripherals/keyboard]
+delay=uint32 500
+numlock-state='on'
+repeat-interval=uint32 30
+
+[settings-daemon/peripherals/mouse]
+custom-acceleration=true
+custom-threshold=true
+double-click=331
+drag-threshold=8
+locate-pointer=false
+middle-button-enabled=true
+motion-acceleration=9.451866404715128
+motion-threshold=4
+
+[settings-daemon/peripherals/touchpad]
+clickpad-click=3
+disable-while-typing=true
+horiz-scroll-enabled=true
+horizontal-scrolling=true
+motion-acceleration=1.0
+motion-threshold=10
+natural-scroll=false
+scroll-method='edge-scrolling'
+scrolling-method=2
+tap-to-click=true
+three-finger-click=2
+touchpad-enabled=false
+two-finger-click=3
+
+[settings-daemon/peripherals/touchscreen]
+orientation-lock=false
+
+[settings-daemon/plugins/power]
+button-power='interactive'
+critical-battery-action='hibernate'
+idle-brightness=10
+idle-dim-battery=false
+idle-dim-time=30
+lid-close-ac-action='nothing'
+lid-close-battery-action='nothing'
+lid-close-suspend-with-external-monitor=true
+lock-on-suspend=true
+sleep-display-ac=300
+sleep-display-battery=300
+sleep-inactive-ac-timeout=0
+sleep-inactive-battery-timeout=0
+
+[settings-daemon/plugins/xsettings]
+antialiasing='rgba'
+buttons-have-icons=false
+hinting='slight'
+menus-have-icons=true
+
+[sounds]
+close-enabled=false
+close-file='/usr/share/sounds/freedesktop/stereo/audio-volume-change.oga'
+login-enabled=false
+login-file='/usr/share/sounds/freedesktop/stereo/service-login.oga'
+logout-enabled=false
+logout-file='/usr/share/sounds/freedesktop/stereo/service-logout.oga'
+map-enabled=false
+map-file='/usr/share/sounds/freedesktop/stereo/window-attention.oga'
+maximize-enabled=false
+minimize-enabled=false
+notification-enabled=false
+notification-file='/usr/share/sounds/KDE-Im-Highlight-Msg.ogg'
+plug-enabled=false
+switch-enabled=false
+tile-enabled=false
+unmaximize-enabled=false
+unplug-enabled=false
+
+[theme]
+name='Mint-Y-Dark'
+symbolic-relative-size=1.0
+symbolic-size-16=16
+symbolic-size-22=22
+symbolic-size-24=22
+symbolic-size-32=30
+symbolic-size-48=42
+theme-cache-updated=1533241873

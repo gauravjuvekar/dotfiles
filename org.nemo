@@ -1,0 +1,57 @@
+[desktop]
+computer-icon-visible=false
+home-icon-visible=false
+volumes-visible=false
+
+[extensions/gtkhash]
+hash-functions=['MD5', 'SHA1', 'SHA256', 'SHA512', 'CRC32']
+
+[extensions/nemo-terminal]
+default-follow-mode='Terminal follows Nemo'
+default-visible=false
+terminal-erase-line='\\x05\\x15'
+terminal-shell='/bin/bash'
+
+[icon-view]
+captions=['mime_type', 'permissions', 'date_modified']
+
+[list-view]
+default-column-order=['name', 'size', 'type', 'date_modified', 'date_accessed', 'detailed_type', 'group', 'where', 'mime_type', 'octal_permissions', 'owner', 'permissions']
+default-visible-columns=['name', 'size', 'type', 'date_modified', 'mime_type', 'octal_permissions']
+search-visible-columns=['name', 'size', 'type', 'where']
+
+[plugins]
+disabled-extensions=@as []
+
+[preferences]
+click-policy='double'
+date-format='informal'
+default-folder-viewer='list-view'
+last-server-connect-method=4
+show-advanced-permissions=true
+show-computer-icon-toolbar=true
+show-full-path-titles=false
+show-hidden-files=true
+show-home-icon-toolbar=true
+show-location-entry=true
+show-new-folder-icon-toolbar=true
+show-open-in-terminal-toolbar=true
+show-reload-icon-toolbar=true
+size-prefixes='base-2'
+sort-directories-first=true
+thumbnail-limit=uint64 104857600
+
+[sidebar-panels/tree]
+show-only-directories=false
+
+[window-state]
+bookmarks-expanded=true
+devices-expanded=true
+geometry='931x1030+106+865'
+maximized=true
+my-computer-expanded=true
+network-expanded=false
+side-pane-view='places'
+sidebar-bookmark-breakpoint=3
+sidebar-width=209
+start-with-sidebar=true
