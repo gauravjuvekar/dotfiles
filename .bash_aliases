@@ -32,7 +32,7 @@ alias pdb='python3 -m pdb -c continue'
 alias o='xdg-open '
 alias m=make
 
-alias sshfs-mount='sshfs -o reconnect,ServerAliveInterval=15,ServerAliveCountMax=3,idmap=user '
+alias sshfs-mount='sshfs -o reconnect,ServerAliveInterval=15,ServerAliveCountMax=3,idmap=user,compression=yes '
 alias clip='xclip -sel clip'
 
 # Add an 'alert' alias for long running commands.  Use like so:
