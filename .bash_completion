@@ -342,6 +342,7 @@ complete -F _complete_alias push
 complete -F _complete_alias pull
 complete -F _complete_alias s
 complete -F _complete_alias a
+complete -F _complete_alias b
 complete -F _complete_alias log
 complete -F _complete_alias logg
 complete -F _complete_alias commit
