@@ -13,9 +13,15 @@ alias ck='git checkout'
 alias d='git diff'
 alias da='git diff --cached'
 alias clone='git clone'
+alias gmb='git merge-base master HEAD'
 
 alias e=vim
 alias vi=vim
+
+alias fn='find . -name'
+
+alias ah='ag --hh'
+alias ac='ag --cc'
 
 alias sl=ls
 alias SL=ls
@@ -32,7 +38,7 @@ alias pdb='python3 -m pdb -c continue'
 alias o='xdg-open '
 alias m=make
 
-alias sshfs-mount='sshfs -o reconnect,ServerAliveInterval=15,ServerAliveCountMax=3,idmap=user,compression=yes '
+alias sshfs-mount='sshfs -o reconnect,ServerAliveInterval=15,ServerAliveCountMax=3,idmap=user'
 alias clip='xclip -sel clip'
 
 # Add an 'alert' alias for long running commands.  Use like so:
