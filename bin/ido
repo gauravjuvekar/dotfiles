@@ -1,0 +1,9 @@
+#!/bin/bash
+set -x
+inotifywait -m -e close_write --format '%f' "$1" | while read line
+do
+    if [[ "$line" -ef "$2" ]]
+    then
+        ${@:3}
+    fi
+done
