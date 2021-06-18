@@ -1,0 +1,24 @@
+#!/bin/bash
+# Chain images and make a combined PDF.
+set -o pipefail
+set -o noclobber
+# set -x
+
+tmpdir=$(mktemp -d)
+
+allargs=("$@")
+
+for i in "${!allargs[@]}"; do
+    if [[ "${allargs[$i]}" = "--" ]]; then
+        convert_opts="${allargs[@]::$i}"
+        files="${allargs[@]:$(($i + 1)):$((${#allargs[@]} - $i - 2))}"
+        outfile="${allargs[@]: -1}"
+        break
+    fi
+done
+
+parallel convert $convert_opts {} JPG:"$tmpdir"/{/.}.jpg ::: $files[@]
+parallel convert "$tmpdir"/{/.}.jpg PDF:"$tmpdir"/{/.}.pdf ::: $files[@]
+pdftk `parallel -k echo "$tmpdir"/{/.}.pdf ::: $files[@]` cat output "$outfile"
+
+rm -r "$tmpdir"
