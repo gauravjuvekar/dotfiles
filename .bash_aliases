@@ -14,6 +14,7 @@ alias d='git diff'
 alias da='git diff --cached'
 alias clone='git clone'
 alias gmb='git merge-base master HEAD'
+alias gvm='git mergetool --tool=vimdiff --prompt'
 alias cws='wmctrl -d | grep '\'\*\'' | tr -s '\'' '\'' | cut -d'\'' '\'' -f10-'
 
 alias e=vim
