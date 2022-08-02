@@ -20,6 +20,7 @@ alias dy='ydiff -s -w0 --wrap --'
 alias cws='wmctrl -d | grep '\'\*\'' | tr -s '\'' '\'' | cut -d'\'' '\'' -f10-'
 
 alias e=vim
+alias v='vim -R'
 alias vi=vim
 
 alias fn='find . -name'
