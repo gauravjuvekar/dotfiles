@@ -16,6 +16,7 @@ alias clone='git clone'
 alias gmb='git merge-base master HEAD'
 alias dm='d $(gmb)'
 alias gvm='git mergetool --tool=vimdiff --prompt'
+alias rc='git rebase --continue'
 alias dy='ydiff -s -w0 --wrap --'
 alias cws='wmctrl -d | grep '\'\*\'' | tr -s '\'' '\'' | cut -d'\'' '\'' -f10-'
 
