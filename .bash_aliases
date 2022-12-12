@@ -18,6 +18,9 @@ alias dm='d $(gmb)'
 alias gvm='git mergetool --tool=vimdiff --prompt'
 alias rc='git rebase --continue'
 alias dy='ydiff -s -w0 --wrap --'
+alias gfp='git show-branch | sed "s/].*//" | ag "\*" | ag -v "$(git rev-parse --abbrev-ref HEAD)" | head -n1 | sed "s/^.*\[//"'
+alias db='d $(gfp)'
+
 alias cws='wmctrl -d | grep '\'\*\'' | tr -s '\'' '\'' | cut -d'\'' '\'' -f10-'
 
 alias e=vim
