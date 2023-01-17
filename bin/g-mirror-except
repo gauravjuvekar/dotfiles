@@ -2,8 +2,16 @@
 set -Eeuxo pipefail
 
 exclude_refs_re="$1"
+remote_name=origin
 
-git push --force --prune origin              \
-  $(git for-each-ref --format='%(refname)' | \
-    grep -P '^refs/(tags|heads)/'          | \
-    grep -vP "$exclude_refs_re")
+remote_refs=$(git ls-remote --heads --tags "$remote_name" | awk '{print $2}' | \
+  grep -vP "$exclude_refs_re" | sort)
+
+local_refs=$(git for-each-ref --format='%(refname)' \
+  "refs/tags/" "refs/heads/" |                      \
+  grep -vP "$exclude_refs_re" | sort )
+
+delete_refs="$(comm -13 <(echo "$local_refs") <(echo "$remote_refs"))"
+
+git push --delete --tags "$remote_name" $delete_refs
+git push --force --prune "$remote_name" $local_refs
