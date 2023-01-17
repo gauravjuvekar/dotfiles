@@ -1,0 +1,9 @@
+#!/bin/bash
+set -Eeuxo pipefail
+
+exclude_refs_re="$1"
+
+git push --force --prune origin              \
+  $(git for-each-ref --format='%(refname)' | \
+    grep -P '^refs/(tags|heads)/'          | \
+    grep -vP "$exclude_refs_re")
