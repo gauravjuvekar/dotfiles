@@ -13,5 +13,8 @@ local_refs=$(git for-each-ref --format='%(refname)' \
 
 delete_refs="$(comm -13 <(echo "$local_refs") <(echo "$remote_refs"))"
 
-git push --delete --tags "$remote_name" $delete_refs
+if [ "x$delete_refs" != "x" ]
+then
+  git push --delete --tags "$remote_name" $delete_refs
+fi
 git push --force --prune "$remote_name" $local_refs
