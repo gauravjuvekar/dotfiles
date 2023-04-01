@@ -23,9 +23,9 @@ alias db='d $(gfp)'
 
 alias cws='wmctrl -d | grep '\'\*\'' | tr -s '\'' '\'' | cut -d'\'' '\'' -f10-'
 
-alias e=vim
-alias v='vim -R'
-alias vi=vim
+alias e=nvim
+alias v='nvim -R'
+alias vi=nvim
 
 alias fn='find . -name'
 
