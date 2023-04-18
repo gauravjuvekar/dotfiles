@@ -1,0 +1,22 @@
+[user]
+	name = Gaurav Juvekar
+	email = gauravjuvekar@gmail.com
+[core]
+	editor = nvim
+	pager = /usr/share/git/diff-highlight/diff-highlight | less
+	autocrlf = input
+[color]
+	ui = true
+[push]
+	default = matching
+[merge]
+	tool = vimdiff
+[diff]
+	tool = vimdiff
+	algorithm = histogram
+[dpm]
+	pristineTarCommit = true
+[pull]
+	rebase = false
+[init]
+	defaultBranch = master
