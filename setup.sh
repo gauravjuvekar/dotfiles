@@ -6,3 +6,5 @@ do
     rm -f "$HOME/$(basename $file)"
     ln -rs -T "$file" "$HOME/$(basename $file)"
 done
+
+rsync --recursive --mkpath ./config/ "$HOME/.config/"
