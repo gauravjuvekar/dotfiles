@@ -107,7 +107,9 @@ shopt -s autocd
 # ENV variables for virtualenvwrapper
 export WORKON_HOME=$HOME/.virtualenvs
 # export PROJECT_HOME=$HOME/Code
-source /usr/bin/virtualenvwrapper_lazy.sh
+if [ -f /usr/bin/virtualenvwrapper_lazy.sh ]; then
+	. /usr/bin/virtualenvwrapper_lazy.sh
+fi
 
 # eval "$(pipenv --completion)"
 
