@@ -1,0 +1,12 @@
+*.autobuild
+*.cache
+*.cre
+*.pyc
+*.taghl
+*build.log
+*compile_commands.json
+*~
+.*.swp
+__pycache__/
+_out/
+tags
