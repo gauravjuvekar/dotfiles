@@ -9,3 +9,5 @@ done
 
 rsync --recursive --mkpath ./config/ "$HOME/.config/"
 rsync --recursive --mkpath ./bin/ "$HOME/.local/bin/"
+
+( cd ./opt/deluminator ;  ./setup.sh )
