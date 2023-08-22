@@ -27,6 +27,7 @@ alias e=nvim
 alias v='nvim -R'
 alias vi=nvim
 
+alias f='fzf'
 alias fn='find . -name'
 
 alias ah='ag --hh'

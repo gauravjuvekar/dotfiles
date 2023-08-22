@@ -329,6 +329,10 @@ _complete_alias () {
     complete -F _complete_alias "$cmd"
 }
 
+if [ -f /usr/share/fzf/completion.bash ]; then
+    source /usr/share/fzf/completion.bash
+fi
+
 # Set alias completions.
 #
 # Uncomment and edit these lines to add your own alias completions.

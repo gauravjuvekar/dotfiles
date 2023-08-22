@@ -127,3 +127,7 @@ GPG_TTY=`tty`
 export GPG_TTY
 
 source /etc/profile.d/autojump.bash
+
+if [ -f /usr/share/fzf/key-bindings.bash ]; then
+    source /usr/share/fzf/key-bindings.bash
+fi
