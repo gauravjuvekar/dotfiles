@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -Eeuxo pipefail
 
-repo_base=$(git rev-parse --show-toplevel)
+repo_base="$(git rev-parse --show-toplevel)"
 list=$(git status --porcelain | grep -P '^\?\?' | cut -d' ' -f2-)
 for f in $list
 do
