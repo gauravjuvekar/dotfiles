@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 gs -o "$2" \
   -sDEVICE=pdfwrite \

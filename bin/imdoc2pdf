@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Chain images and make a combined PDF.
 set -o pipefail
 set -o noclobber

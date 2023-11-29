@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 set -x
 inotifywait -m -e close_write --format '%f' "$1" | while read line
 do
