@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+
+set -Eeuxo pipefail
+
+if [ -n "$(git status --porcelain)" ]
+then
+  echo "Git repo not clean" >&2
+  exit 1
+fi
+
+base_branch=master
+branches=$(git branch --no-contains master --format='%(refname:strip=2)')
+earliest_base=$(git merge-base master --octopus ${branches})
+
+for branch in $branches
+do
+  others=$(echo $branches | sed -e 's/'$branch'//')
+  git for-each-ref $(for b in $others; do echo --no-contains $b ; done) refs/heads/
+done

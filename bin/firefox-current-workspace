@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+url="$1"
+
+active_workspace=$(wmctrl -d | grep '*' | cut -f1 -d' ')
+
+wmctrl -lp | awk '$2=='"$active_workspace"'{print $1,$3}' | while read window pid; do
+  cmd="$(ps --no-headers -o cmd -p "$pid")"
+  if echo "$cmd" | rg -q 'firefox' 2>/dev/null; then
+    wmctrl -iR "$window"
+    break
+  fi
+done
+
+if [ "x$url" = "x" ]; then
+  firefox
+else
+  firefox "$url"
+fi
