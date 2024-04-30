@@ -37,6 +37,8 @@ alias sl=ls
 alias SL=ls
 alias LS=ls
 
+alias rgc='rg --color=always'
+
 alias screen-orientation='xrandr --current -o'
 
 alias p=python3
