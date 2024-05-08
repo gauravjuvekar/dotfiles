@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -Eeuxo pipefail
+
+new_prefix="$1"
+shift 1
+
+# Check if we are in a repo
+git rev-parse --show-toplevel > /dev/null 2>&1
+
+suffix="$(git branch --show-current | rg -e '^(_\w+-)?(.*)$' -o -r '$2')"
+
+git branch --move "_${new_prefix}-${suffix}" "$@"
